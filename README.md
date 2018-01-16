@@ -1,3 +1,4 @@
-# Welcome to My FreeCodeCamp Project Repository
+## Welcome to My FreeCodeCamp Project Repository
 
-Hi there
+### List of Projects:
+* Random Quote Generator: https://redwhite.github.io/freeCodeCampProjects/RandomQuoteGenerator/
